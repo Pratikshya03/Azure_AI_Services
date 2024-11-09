@@ -1,10 +1,11 @@
 #Environment
-
+AI_SERVICE_ENDPOINT=YOUR_AI_SERVICES_ENDPOINT
+AI_SERVICE_KEY=YOUR_AI_SERVICES_KEY
 QA_PROJECT_NAME=LearnFAQ
 QA_DEPLOYMENT_NAME=production
 
-
 #Create_a_Question_Answering_Solution
+
 from dotenv import load_dotenv
 import os
 
