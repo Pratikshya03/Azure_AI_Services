@@ -1,5 +1,6 @@
-
-
+#Enviroment
+AI_SERVICE_ENDPOINT=YOUR_AI_SERVICES_ENDPOINT
+AI_SERVICE_KEY=YOUR_AI_SERVICES_KEY
 
 #Analyze_Text
 from dotenv import load_dotenv
