@@ -1,5 +1,7 @@
 #Environment
 
+QA_PROJECT_NAME=LearnFAQ
+QA_DEPLOYMENT_NAME=production
 
 
 #Create_a_Question_Answering_Solution
